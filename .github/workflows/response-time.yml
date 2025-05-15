@@ -21,6 +21,9 @@ on:
   repository_dispatch:
     types: [response_time]
   workflow_dispatch:
+  push:
+    branches:
+      - master
 jobs:
   release:
     name: Check status

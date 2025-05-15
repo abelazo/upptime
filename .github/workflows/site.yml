@@ -21,6 +21,9 @@ on:
   repository_dispatch:
     types: [static_site]
   workflow_dispatch:
+  push:
+    branches:
+      - master
 jobs:
   release:
     name: Build and deploy site

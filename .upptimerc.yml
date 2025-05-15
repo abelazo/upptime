@@ -16,7 +16,7 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Abelazo's Upptime
   introTitle: "Abelazo's monitor and status page."
-  introMessage: Sample status page which uses **real-time** data from my [GitHub repository](https://github.com/abelaso/upptime).
+  introMessage: Status page which uses **real-time** data from my [GitHub repository](https://github.com/abelaso/upptime).
   navbar:
     - title: Status
       href: /

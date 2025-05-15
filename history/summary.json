@@ -1,22 +1,22 @@
 [
   {
     "name": "Abelazo Photography",
-    "url": "https://abelazo.photography.com",
-    "icon": "https://icons.duckduckgo.com/ip3/abelazo.photography.com.ico",
+    "url": "https://abelazo.photography",
+    "icon": "https://icons.duckduckgo.com/ip3/abelazo.photography.ico",
     "slug": "abelazo-photography",
-    "status": "down",
-    "uptime": "0.00%",
-    "uptimeDay": "0.00%",
-    "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
-    "uptimeYear": "0.00%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "status": "up",
+    "uptime": "1.60%",
+    "uptimeDay": "1.60%",
+    "uptimeWeek": "1.60%",
+    "uptimeMonth": "1.60%",
+    "uptimeYear": "1.60%",
+    "time": 1073,
+    "timeDay": 1073,
+    "timeWeek": 1073,
+    "timeMonth": 1073,
+    "timeYear": 1073,
     "dailyMinutesDown": {
-      "2025-05-15": 0
+      "2025-05-15": 3
     }
   }
 ]

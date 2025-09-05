@@ -4,7 +4,7 @@
     "url": "https://abelazo.photography",
     "icon": "https://icons.duckduckgo.com/ip3/abelazo.photography.ico",
     "slug": "abelazo-photography",
-    "status": "up",
+    "status": "down",
     "uptime": "99.08%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 1204,
     "timeYear": 1431,
     "dailyMinutesDown": {
+      "2025-09-05": 0,
       "2025-08-26": 29,
       "2025-08-21": 18,
       "2025-07-31": 472,
